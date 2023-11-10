@@ -3,8 +3,10 @@ package hola;
 public class main {
 
 	public static void main(String[] args) {
-		System.out.print("Hola esta es la version");
+		System.out.print("Hola esta es la version numero 2");
 		
 	}
+	
+	
 
 }
