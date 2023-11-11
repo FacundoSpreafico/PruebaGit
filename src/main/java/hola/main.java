@@ -12,4 +12,11 @@ public class main {
 		System.out.print(a+b+c);
 	}
 
+	public static void dividir(int a, int b) {
+		if(b != 0) {
+			System.out.print(a/b);
+		}
+		else
+			System.out.print("Operacion no admitida");
+	}
 }
